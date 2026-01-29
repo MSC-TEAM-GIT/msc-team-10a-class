@@ -1,0 +1,64 @@
+[
+  {
+    "day": "Понеділок",
+    "lessons": [
+      { "name": "1. Захист України", "emoji": "DU" },
+      { "name": "2. Захист України", "emoji": "DU" },
+      { "name": "3. Захист України", "emoji": "DU" },
+      { "name": "4. Захист України", "emoji": "DU" },
+      { "name": "5. Захист України", "emoji": "DU" },
+      { "name": "6. Захист України", "emoji": "DU" },
+      { "name": "7. Захист України", "emoji": "DU" },
+      { "name": "8. Захист України", "emoji": "DU" }
+    ]
+  },
+  {
+    "day": "Вівторок",
+    "lessons": [
+      { "name": "1. Українська мова", "emoji": "UaLang" },
+      { "name": "2. Українська література", "emoji": "UaLiterature" },
+      { "name": "3. Алгебра", "emoji": "Algebra" },
+      { "name": "4. Англійська мова", "emoji": "EngLang" },
+      { "name": "5. Фізична культура", "emoji": "PE" },
+      { "name": "6. Фізика", "emoji": "Physics" },
+      { "name": "7. Інформатика", "emoji": "IT" }
+    ]
+  },
+  {
+    "day": "Середа",
+    "lessons": [
+      { "name": "1. Англійська мова", "emoji": "EngLang" },
+      { "name": "2. Громадянська освіта", "emoji": "CE" },
+      { "name": "3. Зарубіжна література", "emoji": "WorldLiterature" },
+      { "name": "4. Історія України", "emoji": "UaHistory" },
+      { "name": "5. Біологія", "emoji": "Biology" },
+      { "name": "6. Українська мова", "emoji": "UaLang" },
+      { "name": "7. Українська мова", "emoji": "UaLang" },
+      { "name": "8. Фізична культура", "emoji": "PE" }
+    ]
+  },
+  {
+    "day": "Четвер",
+    "lessons": [
+      { "name": "1. Фізична культура", "emoji": "PE" },
+      { "name": "2. Українська література", "emoji": "UaLiterature" },
+      { "name": "3. Геометрія", "emoji": "Geometry" },
+      { "name": "4. Інформатика", "emoji": "IT" },
+      { "name": "5. Історія України", "emoji": "UaHistory" },
+      { "name": "6. Алгебра", "emoji": "Algebra" },
+      { "name": "7. Всесвітня історія", "emoji": "WorldHistory" }
+    ]
+  },
+  {
+    "day": "П'ятниця",
+    "lessons": [
+      { "name": "1. Біологія", "emoji": "Biology" },
+      { "name": "2. Геометрія", "emoji": "Geometry" },
+      { "name": "3. Англійська мова", "emoji": "EngLang" },
+      { "name": "4. Українська мова", "emoji": "UaLang" },
+      { "name": "5. Фізика", "emoji": "Physics" },
+      { "name": "6. Фізика", "emoji": "Physics" },
+      { "name": "7. Громадянська освіта", "emoji": "CE" }
+    ]
+  }
+]
